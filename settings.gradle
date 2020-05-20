@@ -1,0 +1,2 @@
+include ':app', ':asmDemo', ':javassistDemo'
+rootProject.name='TestAOP'
